@@ -4,10 +4,13 @@ from markupsafe import escape
 
 app = Flask(__name__)
 
+if __name__ == '__main__':
+    app.run(debug=True)
+
 @app.route('/')
 def index():
     return render_template('index.html')
 
-@app.route('/2')
-def index2():
-    return render_template('index2.html')
+@app.route('/hello')
+def hello():
+    return "Hello, World!"
