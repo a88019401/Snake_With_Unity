@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=KQULD6mnsF0&t=272s
 
 https://www.youtube.com/watch?v=dP1epSArtBA
 
+![image](https://github.com/user-attachments/assets/e5ac6c00-cbc7-430e-8824-2698958a4fcf)
+
+
  ```
     // 虛擬搖桿控制
     float horizontalInput = fixedJoystick.Horizontal;
