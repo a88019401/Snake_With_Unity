@@ -1,12 +1,12 @@
 # Unity 小遊戲開發記錄
 
 ## 2024/8/22
-我參考了 [YT MansCom曼斯康 的影片](https://www.youtube.com/watch?v=KQULD6mnsF0&t=272s)，模仿製作了自己的第一個 Unity 小遊戲。影片講解清晰，讓我了解了如何構建簡單的遊戲結構。
+我參考了 [YT MansCom曼斯康 的影片](https://www.youtube.com/watch?v=KQULD6mnsF0&t=272s)，模仿製作了自己的第一個 Unity 小遊戲。這影片講解清晰，超級推薦給新手。
 
 ---
 
 ## 2024/9/22
-為了提升遊戲體驗，我為遊戲添加了支援平板和手機的 **虛擬搖桿** 功能，參考了 [YT BookName 書銘的影片](https://www.youtube.com/watch?v=dP1epSArtBA)。  
+考慮到手機玩家，我為遊戲添加了支援平板和手機的 **虛擬搖桿** 功能，參考了 [YT BookName 書銘的影片](https://www.youtube.com/watch?v=dP1epSArtBA)。  
 在影片基礎上，我在 `snake.cs` 的下方新增了控制虛擬搖桿的功能。以下是程式碼片段：
 
 ```csharp
