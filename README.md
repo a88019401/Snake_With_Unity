@@ -25,8 +25,10 @@ if (horizontalInput != 0 || verticalInput != 0)
     {
         direction = joystickDirection;
     }
-}
+}```
+
 ![image](https://github.com/user-attachments/assets/e5ac6c00-cbc7-430e-8824-2698958a4fcf)
+
 
 
 
