@@ -1,5 +1,8 @@
 # Unity 小遊戲開發記錄
 
+![image](https://github.com/user-attachments/assets/e5ac6c00-cbc7-430e-8824-2698958a4fcf)
+
+
 ## 2024/8/22
 我參考了 [YT MansCom曼斯康 的影片](https://www.youtube.com/watch?v=KQULD6mnsF0&t=272s)，模仿製作了自己的第一個 Unity 小遊戲。這影片講解清晰，超級推薦給新手。
 
@@ -25,9 +28,7 @@ if (horizontalInput != 0 || verticalInput != 0)
     {
         direction = joystickDirection;
     }
-}```
-
-![image](https://github.com/user-attachments/assets/e5ac6c00-cbc7-430e-8824-2698958a4fcf)
+}
 
 
 
